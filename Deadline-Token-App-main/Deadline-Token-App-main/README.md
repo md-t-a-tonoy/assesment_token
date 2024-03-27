@@ -109,7 +109,9 @@ By leveraging blockchain technology, our DApp empowers students academically and
  
 ## Demo
  App - https://7134ce66-b31d-4424-b770-353940241f32-00-q7uce0e0h1xa.pike.replit.dev/
- Video - https://1aff813c-3360-4757-ac79-19a7978442ff-00-3iydrhpwyci7f.sisko.replit.dev
+ 
+
+Video - https://1aff813c-3360-4757-ac79-19a7978442ff-00-3iydrhpwyci7f.sisko.replit.dev
 
 ## Important Notes
 
@@ -121,6 +123,6 @@ By leveraging blockchain technology, our DApp empowers students academically and
 
 Feel free to reach out with any questions or concerns:
 
-Email: namitamunjal27@gmail.com
+Email: thouhedul.alam.tonoy@gmail.com
        
 
